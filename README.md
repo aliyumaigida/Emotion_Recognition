@@ -1,2 +1,2 @@
 # Emotion_Recognition
-This project aims to classify emotions in facial expressions using a convolutional neural network (CNN) mode
+This project aims to classify emotions in facial expressions using a convolutional neural network (CNN) model, specifically leveraging the InceptionResnetV1 architecture. The model is trained on a dataset of facial expressions labeled with seven distinct emotions: anger, disgust, fear, happiness, neutrality, sadness, and surprise. By processing images or video frames from a webcam, the model can predict the emotion of the subject in real-time.
